@@ -94,8 +94,8 @@ This project focuses on understanding the **mathematics and algorithms behind de
 ## 🔒 Project Status
 
 Ongoing, will later be improved with additional features like:
-Regularization
-Mini-batch gradient descent
+Regularization,
+Mini-batch gradient descent,
 Model evaluation metrics
 
 
