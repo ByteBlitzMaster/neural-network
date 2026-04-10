@@ -6,7 +6,6 @@
 
 A fully functional **Neural Network built from scratch using Python and NumPy**, without relying on ML frameworks like TensorFlow or PyTorch.
 
-This project focuses on understanding the **mathematics and algorithms behind deep learning**, including forward propagation, backpropagation, and optimization techniques.
 
 ---
 
